@@ -1,6 +1,7 @@
 import random
 from time import sleep
 #dei6iklik
+#dei6iklik2
 kazanan_numaralar= list()
 for z in range(0,3):
     numbers = list(range(1, 50))
